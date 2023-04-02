@@ -1,6 +1,6 @@
 ## Introduction
 
-This is a simple template to build JS  CLI using Node Js and javascript. You can implement your own logic from here.
+This is a simple template to build CLI based applications using Node Js and javascript. You can implement your own logic from here.
 
 ## Installation
 
